@@ -193,6 +193,14 @@ img {
   padding: 2rem 1rem 0 1rem;
 }
 
+/* IE10+ */
+
+@media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {
+   .header .wrap {
+     margin: 0px;
+   }
+}
+
 /*Responsive*/
 
 @media only screen and (max-width: 690px) {
