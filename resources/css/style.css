@@ -1,7 +1,7 @@
-/* fonts */
+                    /* fonts */
 @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans:300,400|Merriweather:400,700,900');
 
-/* Universal style */
+                    /* Universal style */
 
 html {
   font-size: 16px;
@@ -130,7 +130,9 @@ img {
   }
 }
 
-/* Header Section */
+
+                    /* Header Section */
+
 
 .header {
   position: fixed;
@@ -235,7 +237,9 @@ img {
   }
 }
 
-/* Top Section */
+
+                    /* Top Section */
+
 
 .top {
   margin-top: 64px;
@@ -327,7 +331,9 @@ img {
   }
 }
 
-/* Resources Section */
+
+                    /* Resources Section */
+
 
 .resources .split_section_60 img {
   width: 100%;
@@ -431,7 +437,9 @@ img {
 
 }
 
-/* Content Section */
+
+                    /* Content Section */
+
 
 .content {
   width: 100%;
@@ -550,7 +558,9 @@ img {
   }
 }
 
-/* Video Section */
+
+                    /* Video Section */
+
 
 .video_section {
   border-bottom: 0.1rem solid #DCDFEA;
@@ -594,7 +604,9 @@ img {
   }
 }
 
-/* Footer Section */
+
+                    /* Footer Section */
+
 
 .footer {
   padding: 0;
