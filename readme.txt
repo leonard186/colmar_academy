@@ -4,7 +4,7 @@ UI for a fictional university
 
 # Live Demo
 
-[https://leonard186.github.io/colmar_academy](https://leonard186.github.io/colmar_academy)
+[https://leonard186.github.io/colmar_academy/](https://leonard186.github.io/colmar_academy/)
 
 ## Description
 
